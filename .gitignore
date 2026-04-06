@@ -1,0 +1,32 @@
+# Build output
+university_system
+university_system.exe
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x32/
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+*.sdf
+*.suo
+*.ncb
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# IDEs
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
